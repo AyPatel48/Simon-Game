@@ -41,3 +41,9 @@ Contributions are welcome! To contribute:
 3. **Commit Changes (git commit -m 'Add a new feature')**
 4. **Push the Branch (git push origin feature-branch)**
 5. **Open a Pull Request**
+
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License. You are free to use and modify the code as per the license terms.
